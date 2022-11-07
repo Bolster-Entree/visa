@@ -6,3 +6,4 @@ Deploy python apps
 deployment in the dev ennvironment
 deployment5 master
 Deployment4
+Deploy to staging environment
